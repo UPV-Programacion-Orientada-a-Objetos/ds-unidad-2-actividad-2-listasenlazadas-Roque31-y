@@ -1,0 +1,3 @@
+/workspaces/ds-unidad-2-actividad-2-listasenlazadas-Roque31-y/build/CMakeFiles/prt7.dir
+/workspaces/ds-unidad-2-actividad-2-listasenlazadas-Roque31-y/build/CMakeFiles/edit_cache.dir
+/workspaces/ds-unidad-2-actividad-2-listasenlazadas-Roque31-y/build/CMakeFiles/rebuild_cache.dir
