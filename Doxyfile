@@ -1,0 +1,8 @@
+# Doxygen minimal config
+PROJECT_NAME           = "PRT7 Decoder"
+OUTPUT_DIRECTORY       = "docs"
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+RECURSIVE              = YES
+INPUT                  = src README.md
+QUIET                  = YES
